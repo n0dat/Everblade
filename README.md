@@ -1,9 +1,6 @@
-# 2D RPG Game
-Landing page: https://InlaidData.github.io/Pages
-
 # Run the Game
-- Navigate to: GameProject\RPG_Game\Builds\
-- Open the version folder that you want (v1.0 is current)
+- Navigate to: Builds\
+- Open the version folder that you want
 - Open Everblade.exe
 
 # Build the binaries
