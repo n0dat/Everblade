@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d8e1d842de5b94f0c81c615fdb216b2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - icon: {instanceID: 0}
+  - playerSword: {instanceID: 0}
+  - blueSword: {fileID: -1018272536, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  - redSword: {fileID: 789079153, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  - goldSword: {fileID: 1750535830, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  - greenSword: {fileID: 1210657533, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  - blackSword: {fileID: 1852614634, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  - itemGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e1d842de5b94f0c81c615fdb216b2b, type: 3}
+  m_Name: CurePoisonPot
+  m_EditorClassIdentifier: 
+  itemName: Consumable
+  icon: {fileID: -1570370666, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  armor: {fileID: 0}
+  isDefaultItem: 0
+  itemGameObject: {fileID: 6355411969265010980, guid: 00775f26e2eb248c69f348ac7808cbfe, type: 3}

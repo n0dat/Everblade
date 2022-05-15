@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyBoss
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - Actor
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1779278093
+    locked: 0
+  - name: Actor
+    uniqueID: 2635724611
+    locked: 0
+  - name: Weapons
+    uniqueID: 1341292245
+    locked: 0
+  - name: Interactable
+    uniqueID: 1098702441
+    locked: 0
+  - name: Camera UI
+    uniqueID: 2387289251
+    locked: 0

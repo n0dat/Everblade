@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7037494158316233847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 937443539394434701, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1018272536, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635365366091386788, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4235467829980912888, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: itemToDrop
+      value: 
+      objectReference: {fileID: 4071380713651397608, guid: e349d763cd27c41018e5ccd6f492b10f, type: 3}
+    - target: {fileID: 5392686426734942586, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_Name
+      value: SwordBlueButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053046528518742032, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2039178541913836633}
+    - target: {fileID: 9053046528518742032, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnButtonPressSword
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053046528518742032, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SwordButton, Assembly-CSharp
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 676282983883892862, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+--- !u!1 &3133546692503682317 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5392686426734942586, guid: 213c9bfabc3ee45f193c884a0c94a56e, type: 3}
+  m_PrefabInstance: {fileID: 7037494158316233847}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2039178541913836633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3133546692503682317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70808723adadc41ddb11ac52261c504e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blueSword: {fileID: -1018272536, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  redSword: {fileID: 789079153, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  goldSword: {fileID: 1750535830, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  greenSword: {fileID: 1210657533, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  blackSword: {fileID: 1852614634, guid: 9669ff21910d3c94092e663645c2855a, type: 3}
+  itemGameObject: {fileID: 4071380713651397608, guid: e349d763cd27c41018e5ccd6f492b10f, type: 3}

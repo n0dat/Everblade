@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7512663776924959412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7512663776924959415}
+  - component: {fileID: 7512663776924959414}
+  - component: {fileID: 7512663776924959408}
+  m_Layer: 0
+  m_Name: QuestManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7512663776924959415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7512663776924959412}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.635655, y: -0.0656351, z: -0.15659456}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7512663776924959414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7512663776924959412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d4d3d2211d2c56429ee5fee3c068cae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  activeQuests: 000000
+  quests: 000000000100000002000000
+  completedQuests: 000000
+  rewards:
+  - {fileID: 3239167589814945996, guid: fbb68de216353e148a93eff304fac8a6, type: 3}
+  - {fileID: 5862932832065827995, guid: 3097809bd025eee46b0844eb20745b8c, type: 3}
+  - {fileID: 5673157846423413461, guid: a5849d706b4f546f7a8f8943b680b081, type: 3}
+  count: 0
+--- !u!114 &7512663776924959408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7512663776924959412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72dfa83edb90ce840a5430aae43e576e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rewards:
+  - ' 10 Rubies '
+  - ' Fire Sword '
+  - ' 1 Ruby / kill '
+  npcDialogue:
+  - 'Help!
+
+    A band of demon babies have been terrorizing our town!'
+  - 'Hello traveller.
+
+
+    Could you take out the large Orc in Apalleco Cave?'
+  - Hey! I have locked myself out of my house. Some Orcs in the Northwest took the
+    key!
+  proposalMessages:
+  - 'Could you take them out for:
+
+
+    10 Rubies?'
+  - '
+
+    If you complete this task you will get a Fire Sword.'
+  - '
+
+    Could you get the key to my house back for me?'
+  thankMessages:
+  - 'Thank you!
+
+
+    May god bless your soul.'
+  - 'Our thoughts and prayers are with you.
+
+
+    Be safe.'
+  - '
+
+    Good luck!'
+  denyMessages:
+  - 'Don''t sweat it.
+
+
+    Maybe someone else can save us.'
+  - If you change your mind, don't hesitate to come talk to me again.
+  - Maybe my day of reckining has finally come . . .
+  incompleteMessage: 'You have not completed this quest yet.
+
+    Please come back
+    when you do for a reward!'
+  comebackMessage: 'You came back!
+
+
+    It sure is a lovely day.'
+  completeMessage:
+  - 'Thank you for saving us!
+
+    May god have mercy on your soul.'
+  - 'Thank you for saving me!
+
+    May god have mercy on your soul.'
+  - 'Thank you for saving us!
+
+    May god have mercy on your soul.'
